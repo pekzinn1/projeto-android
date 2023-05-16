@@ -29,7 +29,7 @@ body{
 }
 
 header{
-    min-width: 400px;
+    width: auto;
     text-align: center;
     color: white;
     background-image: linear-gradient(to top, #015958, #008F8C, #0CABA8);
