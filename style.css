@@ -25,6 +25,9 @@
 }
 
 body{
+    margin: auto;
+    max-width: 918px;
+    min-width: 294px;
     background-color: #023535;
 }
 
